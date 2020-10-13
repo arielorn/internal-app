@@ -1,0 +1,13 @@
+{
+  "name": "internal-app",
+  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arielorn/internal-app"
+  },
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "stylint": "^2.0.0"
+  },
+  "devDependencies": {}
+}
